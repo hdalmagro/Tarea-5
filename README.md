@@ -13,7 +13,13 @@ Carrera: Mecatronica
 
 # 2. MARCO TEORICO (RESUMEN)
 
--ANÁLISIS DE RAMAS, LAZOS Y NODOS
+-Tema 9: ANÁLISIS DE RAMAS, LAZOS Y NODOS
+
+-Tema 10: MAGNETISMO Y ELECTROMAGNETISMO
+
+# 3. RESOLUCION DE EJERCICIOS
+
+-Tema 9: ANÁLISIS DE RAMAS, LAZOS Y NODOS
 
 SECCIÓN 9–1 Ecuaciones simultáneas en el análisis de circuitos 
 
@@ -25,7 +31,7 @@ SECCIÓN 9–1 Ecuaciones simultáneas en el análisis de circuitos
 
 7.Resuelva para I1, I2, I3 en el siguiente conjunto de ecuaciones con determinantes:
 
-9. Resuelva las dos ecuaciones simultáneas del problema 1 con su calculadora.
+9.Resuelva las dos ecuaciones simultáneas del problema 1 con su calculadora.
 
 SECCIÓN 9–2 Método de la corriente en ramas
 
@@ -78,7 +84,7 @@ SECCIÓN 9–4 Método del voltaje en nodos
 ![image](https://user-images.githubusercontent.com/116781677/210447973-a2dc317c-51c7-4936-8982-725144f8ada7.png)
 
 
--MAGNETISMO Y ELECTROMAGNETISMO
+-Tema 10: MAGNETISMO Y ELECTROMAGNETISMO
 
 SECCIÓN 10–1 El campo magnético
 
@@ -131,11 +137,7 @@ SECCIÓN 10–6 Aplicaciones de la inducción electromagnética
 
 25.Suponga que se agrega otra espira, a 90 grados de la primera, al generador de cd del problema 24. Trace una gráfica del voltaje contra el tiempo para mostrar cómo aparece el voltaje de salida. Sea de 10 V el voltaje máximo. 
 
-# 3. RESOLUCION DE EJERCICIOS
 
--Tema 9: ANÁLISIS DE RAMAS, LAZOS Y NODOS
-
--Tema 10: MAGNETISMO Y ELECTROMAGNETISMO
 
 # 4. VIDEO
 
