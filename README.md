@@ -203,7 +203,7 @@ Se deduce que hay tres formas de variar el flujo del campo magnético: variar el
 
 # 4. VIDEO
 
-
+https://youtu.be/hy2OzkPyDA4
 
 # 5. CONCLUSIONES
 
