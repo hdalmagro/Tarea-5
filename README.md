@@ -1,1 +1,30 @@
-# Tarea-5
+# Informe Tarea 5
+
+Alumno: Henry Almagro
+
+Nrc: 10063
+
+Carrera: Mecatronica
+
+# 1. OBJETIVOS
+-Objetivo General
+
+-Objetivos Especificos
+
+# 2. MARCO TEORICO (RESUMEN)
+
+-ANÁLISIS DE RAMAS, LAZOS Y NODOS
+
+-MAGNETISMO Y ELECTROMAGNETISMO
+
+# 3. RESOLUCION DE EJERCICIOS
+
+-Tema 9: ANÁLISIS DE RAMAS, LAZOS Y NODOS
+
+-Tema 10: MAGNETISMO Y ELECTROMAGNETISMO
+
+# 4. VIDEO
+
+# 5. CONCLUSIONES
+
+# 6. BIBLIOGRAFIA
